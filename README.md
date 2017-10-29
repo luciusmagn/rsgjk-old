@@ -1,3 +1,5 @@
+# NIC TADY JEŠTĚ NENÍ V PROVOZU, PŘEDMĚT SE TEPRVE ROZJÍŽDÍ
+
 ## Bodování
 Protože Programovací jazyk Rust je nepovinný/dobrovolný předmět,
 seriózní známkování v podstatě nepřipadá v úvahu. Díky přínosu moderních
